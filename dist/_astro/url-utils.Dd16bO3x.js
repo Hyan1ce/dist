@@ -1,0 +1,1 @@
+import"./zh_TW.BQO9xD94.js";function i(e,r){return e.replace(/^\/|\/$/g,"").toLowerCase()===r.replace(/^\/|\/$/g,"").toLowerCase()}function r(...e){return e.join("/").replace(/\/+/g,"/")}function s(e){return r("","/site/dist/",e)}export{i as p,s as u};
